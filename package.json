@@ -1,0 +1,17 @@
+{
+  "name": "roblox-friend-bot",
+  "version": "2.0.0",
+  "description": "Discord bot for Roblox friend requests with cookies",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "puppeteer": "^21.6.1",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
