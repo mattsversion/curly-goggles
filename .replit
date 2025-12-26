@@ -1,0 +1,9 @@
+language = "nodejs"
+run = "npm start"
+
+[nix]
+channel = "stable-23_11"
+
+[env]
+PUPPETEER_SKIP_CHROMIUM_DOWNLOAD = "true"
+PUPPETEER_EXECUTABLE_PATH = "/nix/store/.*/bin/chromium"
