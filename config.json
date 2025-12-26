@@ -1,0 +1,7 @@
+{
+  "discordToken": "MTQ1Mzk4Njc1NjkyNzE2MDM1MA.GiSC1L.WF98hlG00gSlG4Hh8FYkhYb_FtiWlHDjyEb3-E",
+  "prefix": "!",
+  "adminIds": ["1213963674998284308"],
+  "maxConcurrentBots": 500,
+  "headless": true
+}
